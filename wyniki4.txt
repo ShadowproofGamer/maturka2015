@@ -1,0 +1,3 @@
+zad1.   ilośc liczb binarnych z większą ilością zer:  422
+zad2.   podzielne przez 2:  500  i podzielne przez 8:  123
+zad3.   wiersz max:  924  i wiersz min:  858
